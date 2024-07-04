@@ -34,8 +34,3 @@ You can leave it with a grid size of 'auto' but if you want to change that make 
   
 Find the changelog [here](CHANGELOG.md).
   
-# Donate
-  
-You can donate by clicking the following link if you want to support this free project:
-  
-<a target="blank" href="https://www.paypal.me/fellinga"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg"/></a>
