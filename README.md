@@ -29,8 +29,3 @@ the specified amount of time. A msg.countdown with a value of 0 turns the switch
 ### Size
 
 You can leave it with a grid size of 'auto' but if you want to change that make sure it's at least 5x2 (you can make it smaller if you don't mind scrollbars though). 
-
-## History
-  
-Find the changelog [here](CHANGELOG.md).
-  
